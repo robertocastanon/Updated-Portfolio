@@ -5,7 +5,8 @@
 section {
   padding: 150px 0;
 }
-
+/* reaplces the default blue text for clickable text
+with a grey text*/
 a.custom-card,
 a.custom-card:hover {
   color: inherit;
