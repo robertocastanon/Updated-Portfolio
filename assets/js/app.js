@@ -1,12 +1,3 @@
-// JS
-// document.addEventListener("DOMContentLoaded", () => {
-
-// });
-
-// jQuery document.on("ready")
-// $(function() {
-  
-// });
 (function($) {
     "use strict"; // Start of use strict
   
