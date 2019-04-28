@@ -4,15 +4,12 @@ The site is formatted as a vertical all in one page, starting with the about me 
 ## Projects
 [Trivia Game] (https://github.com/robertocastanon/TriviaGame)
 
-----
 [GifTastic] (https://github.com/robertocastanon/GifTastic)
 
-----
 [Train Scheduler]
 (https://github.com/robertocastanon/Train-Scheduler)
 
-----
+
 ## Template referenced
 [Link](https://startbootstrap.com/templates/scrolling-nav/)
 
-----
